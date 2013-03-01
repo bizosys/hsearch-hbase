@@ -1,0 +1,2 @@
+HBase can be launched from eclipse as a system tray icon.
+This helps on debugging, deploying filters easily.
