@@ -1,0 +1,117 @@
+2013-03-02 20:02:57,120 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:02:57,140 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:02:57,141 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:02:57,143 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:02:57,143 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:02:57,143 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:02:57,143 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:02:58,216 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:02:58,217 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:02:58,217 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:02:58,217 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:02:58,218 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:02:58,218 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:02:58,218 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:02:59,260 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:02:59,260 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:02:59,261 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:02:59,261 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:02:59,261 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:02:59,261 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:02:59,261 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:00,353 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:00,353 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:00,354 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:00,354 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:00,354 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:00,354 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:00,355 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:02,416 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:02,417 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:02,417 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:02,418 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:02,418 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:02,418 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:02,419 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:04,473 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:04,474 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:04,474 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:04,474 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:04,475 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:04,475 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:04,475 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:08,549 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:08,549 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:08,549 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:08,550 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:08,550 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:08,550 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:08,550 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:12,612 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:12,612 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:12,613 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:12,613 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:12,613 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:12,613 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:12,614 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:20,651 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:20,651 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:20,652 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:20,652 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:20,652 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:20,652 DEBUG hbase.HbaseLog - 57 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:20,652 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:03:36,817 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:03:36,818 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:03:36,818 DEBUG hbase.HbaseLog - 58 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:36,818 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:03:36,819 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:03:36,819 DEBUG hbase.HbaseLog - 58 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:03:36,819 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:17:58,354 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A OR EmpDetail:B
+2013-03-02 20:17:58,355 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:17:58,356 DEBUG hbase.HbaseLog - 56 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:17:58,357 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:17:58,358 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/B
+2013-03-02 20:17:58,358 DEBUG hbase.HbaseLog - 56 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:17:58,358 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:B=*|developer|*|*|*
+2013-03-02 20:17:58,361 DEBUG hbase.HbaseLog - Processing @ Region Server : filterRow
+2013-03-02 20:17:58,369 DEBUG hbase.HbaseLog - queryData HSearchTableParts creation. 
+2013-03-02 20:17:58,370 DEBUG hbase.HbaseLog - EmpDetail:A
+2013-03-02 20:17:58,370 DEBUG hbase.HbaseLog - Query Parts for EmpDetail:A
+2013-03-02 20:17:58,370 DEBUG hbase.HbaseLog - EmpDetail:B
+2013-03-02 20:17:58,370 DEBUG hbase.HbaseLog - Query Parts for EmpDetail:B
+2013-03-02 20:17:58,370 DEBUG hbase.HbaseLog - intersector.executeForCols 
+2013-03-02 20:17:58,496 DEBUG hbase.HbaseLog - MultiQuery Output Ids: [1,5,3,4,2]
+2013-03-02 20:17:58,627 DEBUG hbase.HbaseLog - ARCH has ids of :7
+2013-03-02 20:17:58,627 DEBUG hbase.HbaseLog - Generaic filter hasMatchingIds :true
+2013-03-02 20:17:58,628 DEBUG hbase.HbaseLog - Processing @ Region Server : filterRow
+2013-03-02 20:17:58,629 DEBUG hbase.HbaseLog - queryData HSearchTableParts creation. 
+2013-03-02 20:17:58,629 DEBUG hbase.HbaseLog - EmpDetail:A
+2013-03-02 20:17:58,629 DEBUG hbase.HbaseLog - Query Parts for EmpDetail:A
+2013-03-02 20:17:58,630 DEBUG hbase.HbaseLog - EmpDetail:B
+2013-03-02 20:17:58,630 DEBUG hbase.HbaseLog - Query Parts for EmpDetail:B
+2013-03-02 20:17:58,630 DEBUG hbase.HbaseLog - intersector.executeForCols 
+2013-03-02 20:17:58,635 DEBUG hbase.HbaseLog - MultiQuery Output Ids: [1]
+2013-03-02 20:17:58,635 DEBUG hbase.HbaseLog - DEV has ids of :3
+2013-03-02 20:17:58,636 DEBUG hbase.HbaseLog - Generaic filter hasMatchingIds :true
+2013-03-02 20:27:10,024 DEBUG hbase.HbaseLog - HBase Region Server: Multi QueryEmpDetail:A
+2013-03-02 20:27:10,024 DEBUG hbase.HbaseLog - colName:qId = EmpDetail/A
+2013-03-02 20:27:10,024 DEBUG hbase.HbaseLog - 58 > HBaseHSearchFilter : type > EmpDetail
+2013-03-02 20:27:10,024 DEBUG hbase.HbaseLog - HBase Region Server: Query PayloadEmpDetail:A=*|architect|*|*|*
+2013-03-02 20:27:10,026 DEBUG hbase.HbaseLog - Processing @ Region Server : filterRow
+2013-03-02 20:27:10,027 DEBUG hbase.HbaseLog - queryData HSearchTableParts creation. 
+2013-03-02 20:27:10,027 DEBUG hbase.HbaseLog - EmpDetail:A
+2013-03-02 20:27:10,027 DEBUG hbase.HbaseLog - Query Parts for EmpDetail:A
+2013-03-02 20:27:10,027 DEBUG hbase.HbaseLog - intersector.executeForCols 
+2013-03-02 20:27:10,031 DEBUG hbase.HbaseLog - MultiQuery Output Ids: [1,5,3,4,2]
+2013-03-02 20:27:10,031 DEBUG hbase.HbaseLog - ARCH has ids of :7
+2013-03-02 20:27:10,032 DEBUG hbase.HbaseLog - Generaic filter hasMatchingIds :true
+2013-03-02 20:27:10,032 DEBUG hbase.HbaseLog - Processing @ Region Server : filterRow
+2013-03-02 20:27:10,033 DEBUG hbase.HbaseLog - queryData HSearchTableParts creation. 
+2013-03-02 20:27:10,033 DEBUG hbase.HbaseLog - EmpDetail:A
+2013-03-02 20:27:10,033 DEBUG hbase.HbaseLog - Query Parts for EmpDetail:A
+2013-03-02 20:27:10,033 DEBUG hbase.HbaseLog - intersector.executeForCols 
+2013-03-02 20:27:10,035 DEBUG hbase.HbaseLog - MultiQuery Output Ids: []
+2013-03-02 20:27:10,036 DEBUG hbase.HbaseLog - DEV has ids of :0
+2013-03-02 20:27:10,036 DEBUG hbase.HbaseLog - Generaic filter hasMatchingIds :false
